@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import { Suspense } from "react";
 import { useParams, useLocation } from "react-router-dom";
-import { useDetails } from "/utils/hooks/useDetails";
+import { useDetails } from "../utils/hooks/useDetails";
 import { BackLink } from "components/BackLink";
 import { Container, Wrapper } from "./details.styled";
 import { StyledLink } from "./home.styled";

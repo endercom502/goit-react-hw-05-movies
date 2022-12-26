@@ -14,9 +14,7 @@ export const SharedLayout = () => {
     <Container>
       <Header>
         <Logo>
-          <span role="img" aria-label="clip movie">
-            🎬
-          </span>{' '}
+          
           Movie Search 
         </Logo>
         <nav>

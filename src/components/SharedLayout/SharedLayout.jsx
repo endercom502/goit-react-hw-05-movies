@@ -15,7 +15,6 @@ export const SharedLayout = () => {
       <Header>
         <Logo>
         
-          Movie Search 
         </Logo>
         <nav>
           <Link to="/" end>

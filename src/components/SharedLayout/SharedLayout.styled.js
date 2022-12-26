@@ -22,7 +22,7 @@ export const Header = styled.header`
 
 export const Logo = styled.p`
   font-weight: 700;
-  font-size: 35px;
+  font-size: 36px;
   margin: 0;
 `;
 

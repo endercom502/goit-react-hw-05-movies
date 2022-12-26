@@ -2,11 +2,10 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const Header = styled.div`
-  background-color: #663311;
   padding: 10px;
   justify-content: center;
   text-align: center;
-  color: white;
+  color: #663311;
   text-transform: uppercase;
 `;
 

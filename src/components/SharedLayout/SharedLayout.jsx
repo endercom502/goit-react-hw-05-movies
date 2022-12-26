@@ -13,10 +13,7 @@ export const SharedLayout = () => {
   return (
     <Container>
       <Header>
-        <Logo>
-          
-          Movie Search 
-        </Logo>
+        
         <nav>
           <Link to="/" end>
             Home

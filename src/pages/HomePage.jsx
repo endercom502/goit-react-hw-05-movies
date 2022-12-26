@@ -9,7 +9,7 @@ const HomePage = () => {
   return (
     <main>
       <Header>
-           <h1>Check out the trending list for the day! </h1>
+           <h1>Trending today</h1>
       </Header>
        <Container>
         {trendingMovies.map(movie => (
